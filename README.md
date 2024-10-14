@@ -163,10 +163,10 @@ notepad fsb.env
 
 <p>Um exemplo de arquivo <code>fsb.env</code>:</p>
 
-<pre><code>API_ID=452525
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:seubottokenaqui
-LOG_CHANNEL=-10045145224562
+<pre><code>API_ID==pegueemhttps://my.telegram.org/
+API_HASH=pegueemhttps://my.telegram.org/
+BOT_TOKEN=pegueem(https://t.me/BotFather)
+LOG_CHANNEL=pegueemhttps://t.me/JsonDumpBot
 PORT=8080
 HOST=http://seuipdoservidor
 # (se você quiser configurar múltiplos bots)
